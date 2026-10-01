@@ -1,1 +1,1 @@
-alert()
+alert('PAY RESPECT FOR MY NAME MOTHERFUCKER')
