@@ -1,1 +1,1 @@
-alert('PAY RESPECT FOR MY NAME MOTHERFUCKER')
+alert(document.domain)
