@@ -1,4 +1,4 @@
-alert(this.[0]); this.parentElement.innerHTML='';
+alert(this.parentNode.innerHTML); this.parentNode.innerHTML='';
 /*Exon-dv telerama shell
 html injector
 account takeover
