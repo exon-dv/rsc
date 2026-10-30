@@ -1,6 +1,6 @@
 var a = new Audio('https://exon-dv.github.io/rsc/Waiting.mp3');
-console.log('Im waiting someone, discord : exon_dv');
-a.play();
+var b = confirm('Im waiting someone, discord : exon_dv');
+if (b=true) {a.play()};
 /*
 Exon-dv telerama shell
 html injector
